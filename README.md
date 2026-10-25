@@ -22,7 +22,7 @@ The target variable is `Exited`:
 - `0`: Customer stayed.
 - `1`: Customer exited.
 
-**Dataset source:** To be added after verifying the original source and applicable usage terms.
+**Dataset source:** https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?resource=download
 
 ## Tools and Technologies
 
